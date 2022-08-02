@@ -3,3 +3,4 @@ vi du 1
 vi du 2
 so on and so forth you get the idea
 xóa tất cả những dòng này trừ dòng 1 trước khi dùng
+nhớ ctrl s nka
