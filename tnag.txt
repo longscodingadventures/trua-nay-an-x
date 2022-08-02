@@ -1,4 +1,5 @@
-this is
-a test
-pls dont crash
-come on
+Nhập món ăn (không dấu) ở dưới dòng này, phân cách bằng cách xuống dòng (enter) 
+vi du 1
+vi du 2
+so on and so forth you get the idea
+xóa tất cả những dòng này trừ dòng 1 trước khi dùng
