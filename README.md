@@ -23,11 +23,16 @@ This software and all its dependencies use the `MIT license`. For more informati
 Đầu tiên, bấm vào nút `release` ở bên phải ([đây nèk](https://imgur.com/a/8rEdwzc))
 
 Cách 1: tải `main.exe` và `tnag.exe` và để chung folder
+
 Cách 2: tải `source code` và tự compile từ code nếu cậu 0 tin tớ :<
+
 Cách 3: clone repository bằng `Visual Studio Code` hoặc `GitHub Desktop`
 
 # HƯỚNG DẪN SỬ DỤNG `trưa-nay-ăn-x`
 mở `tnag.txt`
+
 làm theo hướng dẫn của `tnag.txt`
+
 mở `main.exe`
+
 `✨magik✨`
