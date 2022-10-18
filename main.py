@@ -21,7 +21,7 @@ print('please wait while the AI leverages choices')
 time.sleep(2)
 print('almost done...')
 time.sleep(3)
-print("Hôm nay ăn {}".format(random.choice(tnag_list)))
+print("Hôm nay ăng {}".format(random.choice(tnag_list)))
 
 input('press any key to close')
 
